@@ -11,4 +11,4 @@ Notebooks:
 
 -Keo data intro walks through downloading mooring data from NOAA PMEL and plotting the seasonal cycle, separating thermal and nonthermal drivers of pCO2.
 
--FluxEngine toolbox was created by Jamie Shutler and has been adapted to work in a Binder.
+-FluxEngine toolbox (https://github.com/oceanflux-ghg/FluxEngine) was created by Jamie Shutler and has been adapted here to work in a Binder.
