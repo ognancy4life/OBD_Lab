@@ -7,8 +7,8 @@ Click the badge below to launch a binder. Everything will be self-contained and 
 
 Notebooks:
 
--OBD_SOCCOM_L3 walks through downloading a SOCCOM data snapshot and doing some basic data cleaning and plotting for one float at a time.
+-`OBD_SOCCOM_L3.ipynb` walks through downloading a SOCCOM data snapshot and doing some basic data cleaning and plotting for one float at a time.
 
--Keo data intro walks through downloading mooring data from NOAA PMEL and plotting the seasonal cycle, separating thermal and nonthermal drivers of pCO2.
+-`NOAA PMEL CO2 Mooring.ipynb` walks through downloading KEO mooring data from NOAA PMEL and plotting the seasonal cycle, separating thermal and nonthermal drivers of pCO2. We then compare to a second mooring.
 
--FluxEngine toolbox (https://github.com/oceanflux-ghg/FluxEngine) was created by Jamie Shutler and has been adapted here to work in a Binder.
+-`FluxEngineTutorials` (https://github.com/oceanflux-ghg/FluxEngine) was created by Jamie Shutler and has been adapted here to work in a Binder.
