@@ -8,5 +8,6 @@ dependencies:
   - seawater
   - requests
   - pip
+  - xarray
   - pip:
     - fluxengine
