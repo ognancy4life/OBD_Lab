@@ -9,5 +9,7 @@ dependencies:
   - requests
   - pip
   - xarray
+  - intake
   - pip:
     - fluxengine
+    - PyCO2SYS
