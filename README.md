@@ -11,4 +11,6 @@ Notebooks:
 
 -`NOAA PMEL CO2 Mooring.ipynb` walks through downloading KEO mooring data from NOAA PMEL and plotting the seasonal cycle, separating thermal and nonthermal drivers of pCO2. We then compare to a second mooring.
 
+-`OBD_SOCCOM_CO2SYS.ipynb` uses PyCO2SYS to calculate aragonite saturation state from a single SOCCOM float.
+
 -`FluxEngineTutorials` (https://github.com/oceanflux-ghg/FluxEngine) was created by Jamie Shutler and has been adapted here to work in a Binder.
