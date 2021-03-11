@@ -12,3 +12,4 @@ dependencies:
   - intake
   - pip:
     - PyCO2SYS
+    - ipynb
