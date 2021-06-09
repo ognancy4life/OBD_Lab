@@ -12,3 +12,5 @@ Notebooks:
 -`NOAA PMEL CO2 Mooring.ipynb` walks through downloading KEO mooring data from NOAA PMEL and plotting the seasonal cycle, decomposing the thermal and nonthermal drivers of pCO2. We then compare to a second mooring at a different location.
 
 -`OBD_SOCCOM_CO2SYS.ipynb` dowloads the data for one SOCCOM float at a time and then walks through using PyCO2SYS (https://pyco2sys.readthedocs.io/en/latest/) to do carbonate system calculations. We calculate aragonite saturation state from a single SOCCOM float and compare against predicted conditions 50 years in the future.
+
+-`OBD_SOCCOM_MixedLayerDecomposition.ipynb` dowloads the data for one SOCCOM float at a time and then walks through using PyCO2SYS (https://pyco2sys.readthedocs.io/en/latest/) to do carbonate system calculations. We then do a simple mixed layer decomposition of the drivers of carbonate chemistry.
